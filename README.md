@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @AhmadShahzaib
-- 👀 I’m interested in React.
-- 🌱 I’m currently learning NEXT.Js.
-- 📫 You can mail me on Ahmadshahzib683@gmail.com.
+👋 Hi, I’m Ahmad Shahzaib
 
-
-<!---
-AhmadShahzaib/AhmadShahzaib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Passionate Full-Stack JavaScript Developer with a strong focus on building scalable and modern web applications.
+💻 I work primarily with React, Next.js, Node.js, and NestJS, leveraging tools like Docker, Kubernetes, and CI/CD (GitHub Actions) for smooth deployments.
+🔐 Experienced in JWT authentication, Redux state management, Express APIs, and optimized routing for dynamic apps.
+🌱 Currently diving deeper into Next.js 14 App Router, microservices, and cloud-native development.
+📫 Reach me at Ahmadshahzib683@gmail.com
